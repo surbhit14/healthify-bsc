@@ -133,10 +133,7 @@ function Patient() {
 
           <div className="m-3 p-5 rounded col-md-3 col-12 card card-body bg-black  ">
             <div className="text-secondary text-start ">
-              <div>
-                <h6>cUSD Balance</h6>
-                <h3 className="fw-bold text-primary">{balances.cUSD}</h3>
-              </div>
+              
               <button
                 type="button"
                 className="btn btn-lg d-block btn-primary my-3 fw-bold text-start"
